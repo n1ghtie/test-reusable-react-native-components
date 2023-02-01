@@ -1,0 +1,10 @@
+{
+  "name": "@n1ghtie/test-reusable-react-native-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/n1ghtie/test-reusable-react-native-components.git"
+  }
+}
