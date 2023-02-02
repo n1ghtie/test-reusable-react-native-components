@@ -5,4 +5,4 @@ yarn.lock
 lerna.json
 .npmrc
 .gitignore
-index.js
+.idea
