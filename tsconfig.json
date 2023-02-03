@@ -2,10 +2,6 @@
   "Display": "Test reusable react native component",
   "compilerOptions": {
     "baseUrl": ".",
-    "paths": {
-      "@rneui/*": ["./packages/*/src"],
-      "@rneui/base/dist/*": ["./packages/base/src/*"]
-    },
     "outDir": "dist",
     "removeComments": true,
     "composite": true,
@@ -34,11 +30,6 @@
     "packages/index.ts"
   ],
   "exclude": [
-    "website",
-    "example",
-    "packages/*/src/**/__tests__",
-    "packages/*/coverage/**",
-    "packages/*/dist/**",
-    "packages/*/*.config.js"
+    "dist/"
   ]
 }
